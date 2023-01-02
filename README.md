@@ -1,4 +1,9 @@
-# OpenNox content
+<p align="center" style="font-size:32pt;font-style:bold">
+    <img src="logo/opennox-small.png" width=400>
+</p>
+<p align="center" style="font-size:12pt;font-style:bold">
+    <b>OpenNox</b> is an open-source community collaboration project extending the Nox engine. 
+</p>
 
 This repository contains free content for OpenNox remade from scratch by the community.
 
