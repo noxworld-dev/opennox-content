@@ -23,4 +23,4 @@ For `perspective_index`, current configuration is:
 7 - FRONT_LEFT
 ```
 
-Then, you'll need to open `Jack.blend` with blender. *Make sure `SpriteReference lives in your current working directory*. Then, go to `Scripting` tab, open `setup-references.py` and run it. It should take some time and generate scenes as many as the animation given.
+Then, you'll need to open `Jack.blend` with blender. *Make sure `SpriteReference` lives in your current working directory*. Then, go to `Scripting` tab, open `setup-references.py` and run it. It should take some time and generate scenes as many as the animation given.
